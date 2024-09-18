@@ -1,0 +1,14 @@
+/Users/selinyazici/Desktop/vs code c#/hesap makinesi/hesap makinesi/bin/Debug/net9.0/hesap makinesi
+/Users/selinyazici/Desktop/vs code c#/hesap makinesi/hesap makinesi/bin/Debug/net9.0/hesap makinesi.deps.json
+/Users/selinyazici/Desktop/vs code c#/hesap makinesi/hesap makinesi/bin/Debug/net9.0/hesap makinesi.runtimeconfig.json
+/Users/selinyazici/Desktop/vs code c#/hesap makinesi/hesap makinesi/bin/Debug/net9.0/hesap makinesi.dll
+/Users/selinyazici/Desktop/vs code c#/hesap makinesi/hesap makinesi/bin/Debug/net9.0/hesap makinesi.pdb
+/Users/selinyazici/Desktop/vs code c#/hesap makinesi/hesap makinesi/obj/Debug/net9.0/hesap makinesi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/selinyazici/Desktop/vs code c#/hesap makinesi/hesap makinesi/obj/Debug/net9.0/hesap makinesi.AssemblyInfoInputs.cache
+/Users/selinyazici/Desktop/vs code c#/hesap makinesi/hesap makinesi/obj/Debug/net9.0/hesap makinesi.AssemblyInfo.cs
+/Users/selinyazici/Desktop/vs code c#/hesap makinesi/hesap makinesi/obj/Debug/net9.0/hesap makinesi.csproj.CoreCompileInputs.cache
+/Users/selinyazici/Desktop/vs code c#/hesap makinesi/hesap makinesi/obj/Debug/net9.0/hesap makinesi.dll
+/Users/selinyazici/Desktop/vs code c#/hesap makinesi/hesap makinesi/obj/Debug/net9.0/refint/hesap makinesi.dll
+/Users/selinyazici/Desktop/vs code c#/hesap makinesi/hesap makinesi/obj/Debug/net9.0/hesap makinesi.pdb
+/Users/selinyazici/Desktop/vs code c#/hesap makinesi/hesap makinesi/obj/Debug/net9.0/hesap makinesi.genruntimeconfig.cache
+/Users/selinyazici/Desktop/vs code c#/hesap makinesi/hesap makinesi/obj/Debug/net9.0/ref/hesap makinesi.dll
